@@ -8,6 +8,10 @@ The text style is the most minimalist approach, displaying only the language nam
 
 ![Text Translate](/img/github/text.png)
 
+:::tip Try it Live!
+**[View Live Example →](https://github.com/Kenura-R-Gunarathna/krag-translate/blob/master/examples/text.html)** | **[Download HTML](https://raw.githubusercontent.com/Kenura-R-Gunarathna/krag-translate/master/examples/text.html)**
+:::
+
 ## Features
 
 - Minimalist text-only design

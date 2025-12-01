@@ -156,17 +156,17 @@ KRAG Translate offers three implementation styles:
 ### 1. Dropdown Style
 Best for: Header navigation, limited space
 - [View Documentation](./implementation-styles/dropdown)
-- [See Example](https://kenura-r-gunarathna.github.io/krag-translate/drop-down.html)
+- [Live Example](https://github.com/Kenura-R-Gunarathna/krag-translate/blob/master/examples/drop-down.html)
 
 ### 2. Flag-list Style
 Best for: Sidebars, dedicated language sections
 - [View Documentation](./implementation-styles/flag-list)
-- [See Example](https://kenura-r-gunarathna.github.io/krag-translate/flag-list.html)
+- [Live Example](https://github.com/Kenura-R-Gunarathna/krag-translate/blob/master/examples/flag-list.html)
 
 ### 3. Text Style
 Best for: Minimalist designs, footer links
 - [View Documentation](./implementation-styles/text)
-- [See Example](https://kenura-r-gunarathna.github.io/krag-translate/text.html)
+- [Live Example](https://github.com/Kenura-R-Gunarathna/krag-translate/blob/master/examples/text.html)
 
 ## Testing
 
