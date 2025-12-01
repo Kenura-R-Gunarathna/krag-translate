@@ -20,9 +20,9 @@ KRAG Translate provides three different implementation styles to suit your needs
 
 Try out the different styles in action:
 
-- 🔽 **[Dropdown Style Demo](https://github.com/Kenura-R-Gunarathna/krag-translate/blob/master/examples/drop-down.html)** - Interactive dropdown with flags
-- 📋 **[Flag-list Style Demo](https://github.com/Kenura-R-Gunarathna/krag-translate/blob/master/examples/flag-list.html)** - Vertical list with flags
-- 📝 **[Text Style Demo](https://github.com/Kenura-R-Gunarathna/krag-translate/blob/master/examples/text.html)** - Minimalist text-only version
+- 🔽 **[Dropdown Style Demo](/demos/drop-down.html)** - Interactive dropdown with flags
+- 📋 **[Flag-list Style Demo](/demos/flag-list.html)** - Vertical list with flags
+- 📝 **[Text Style Demo](/demos/text.html)** - Minimalist text-only version
 
 ## Quick Start
 

@@ -9,7 +9,7 @@ The flag-list style displays languages in a vertical list format with flag icons
 ![Flag-list Translate](/img/github/flag-list.png)
 
 :::tip Try it Live!
-**[View Live Example →](https://github.com/Kenura-R-Gunarathna/krag-translate/blob/master/examples/flag-list.html)** | **[Download HTML](https://raw.githubusercontent.com/Kenura-R-Gunarathna/krag-translate/master/examples/flag-list.html)**
+**[View Live Demo →](/demos/flag-list.html)** | **[Download HTML](https://raw.githubusercontent.com/Kenura-R-Gunarathna/krag-translate/master/examples/flag-list.html)**
 :::
 
 ## Features
