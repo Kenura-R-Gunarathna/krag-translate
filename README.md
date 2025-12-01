@@ -9,11 +9,15 @@ A simple translator package using the google translater. Converts the whole webs
 
 **[View Full Documentation →](https://kenura-r-gunarathna.github.io/krag-translate/)**
 
-## 🎯 Live Examples
+## 🎯 Live Demos
 
-1. [Dropdown Translate](./examples/drop-down.html)
-2. [Flag-list Translate](./examples/flag-list.html)
-3. [Text Translate](./examples/text.html)
+Try the interactive demos on the documentation site:
+
+1. [Dropdown Translate](https://kenura-r-gunarathna.github.io/krag-translate/demos/drop-down.html) - Sleek dropdown with flags
+2. [Flag-list Translate](https://kenura-r-gunarathna.github.io/krag-translate/demos/flag-list.html) - Vertical list with flags
+3. [Text Translate](https://kenura-r-gunarathna.github.io/krag-translate/demos/text.html) - Minimalist text-only
+
+> **Note**: Local examples are also available in the [`examples/`](./examples/) folder.
 
 ## Dropdown Translate
 
