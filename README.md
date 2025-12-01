@@ -1,10 +1,19 @@
-# Google Translator - With Flags #
+# Google Translator - With Flags
+
+[![Documentation](https://img.shields.io/badge/docs-online-blue.svg)](https://kenura-r-gunarathna.github.io/krag-translate/)
+[![GitHub](https://img.shields.io/badge/github-repo-green.svg)](https://github.com/Kenura-R-Gunarathna/krag-translate)
 
 A simple translator package using the google translater. Converts the whole website to your desired language, with multiple output formats.
 
-1. [Dropdown Translate](./drop-down.html)
-2. [Flag-list Translate](./flag-list.html)
-3. [Text Translate](./text.html)
+## 📚 Documentation
+
+**[View Full Documentation →](https://kenura-r-gunarathna.github.io/krag-translate/)**
+
+## 🎯 Live Examples
+
+1. [Dropdown Translate](./examples/drop-down.html)
+2. [Flag-list Translate](./examples/flag-list.html)
+3. [Text Translate](./examples/text.html)
 
 ## Dropdown Translate
 
