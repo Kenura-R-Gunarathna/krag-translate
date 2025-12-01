@@ -9,7 +9,7 @@ The dropdown style provides a sleek, space-saving language selector with a custo
 ![Dropdown Translate](/img/github/drop-down.png)
 
 :::tip Try it Live!
-**[View Live Demo →](/demos/drop-down.html)** | **[Download HTML](https://raw.githubusercontent.com/Kenura-R-Gunarathna/krag-translate/master/examples/drop-down.html)**
+**[View Live Demo →](pathname:///demos/drop-down.html)** | **[Download HTML](https://raw.githubusercontent.com/Kenura-R-Gunarathna/krag-translate/master/examples/drop-down.html)**
 :::
 
 ## Features

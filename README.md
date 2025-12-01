@@ -17,8 +17,6 @@ Try the interactive demos on the documentation site:
 2. [Flag-list Translate](https://kenura-r-gunarathna.github.io/krag-translate/demos/flag-list.html) - Vertical list with flags
 3. [Text Translate](https://kenura-r-gunarathna.github.io/krag-translate/demos/text.html) - Minimalist text-only
 
-> **Note**: Local examples are also available in the [`examples/`](./examples/) folder.
-
 ## Dropdown Translate
 
 <img src="./assets/img/github/drop-down.png" width="100%">
