@@ -1,0 +1,33 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="95" fill="#4285F4" opacity="0.1"/>
+  
+  <!-- Globe outline -->
+  <circle cx="100" cy="100" r="70" fill="none" stroke="#4285F4" stroke-width="3"/>
+  
+  <!-- Latitude lines -->
+  <ellipse cx="100" cy="100" rx="70" ry="25" fill="none" stroke="#4285F4" stroke-width="2" opacity="0.6"/>
+  <ellipse cx="100" cy="100" rx="70" ry="50" fill="none" stroke="#4285F4" stroke-width="2" opacity="0.6"/>
+  
+  <!-- Longitude line -->
+  <ellipse cx="100" cy="100" rx="25" ry="70" fill="none" stroke="#4285F4" stroke-width="2" opacity="0.6"/>
+  
+  <!-- Center letter 'K' -->
+  <text x="100" y="120" font-family="Arial, sans-serif" font-size="60" font-weight="bold" fill="#4285F4" text-anchor="middle">K</text>
+  
+  <!-- Translation arrows -->
+  <g transform="translate(100, 100)">
+    <!-- Right arrow -->
+    <path d="M 35 -15 L 55 -15 L 50 -20 M 55 -15 L 50 -10" fill="none" stroke="#34A853" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- Left arrow -->
+    <path d="M -35 15 L -55 15 L -50 10 M -55 15 L -50 20" fill="none" stroke="#34A853" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  
+  <!-- Small flags decoration -->
+  <g opacity="0.7">
+    <!-- Top flag -->
+    <rect x="95" y="20" width="10" height="8" fill="#EA4335" rx="1"/>
+    <!-- Bottom flag -->
+    <rect x="95" y="172" width="10" height="8" fill="#FBBC04" rx="1"/>
+  </g>
+</svg>
